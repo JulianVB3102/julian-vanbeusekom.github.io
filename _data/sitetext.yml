@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Industry standard coding languages"
         desc: "From SQL to Python and its vast libraries to R, I have experience using all of them to generate actionable knowledge and insight."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-light fa-circle-user #find more at https://fontawesome.com/icons
       - title: "Dashboards and Design"
         desc: "Everyone's second favorite DND, and my favorite part of analysis. With my UX design background, I craft dashboards that feel less like reports and more like experiences."
       - title: "Cognitive Science Background"
