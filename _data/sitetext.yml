@@ -17,18 +17,17 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "What I know"
+    text: "Top skills:"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Industry standard coding languages"
+        desc: "From SQL to Python and its vast libraries to R, I have experience using all of them to generate actionable knowledge and insight."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Dashboards and Design"
+        desc: "Everyone's second favorite DND, and my favorite part of analysis. With my UX design background, I craft dashboards that feel less like reports and more like experiences."
+      - title: "Cognitive Science Background"
+        desc: "I analyze workforce trends and human-centered data to uncover insights that improve retention, engagement, and organizational health."
         icon: fab fa-markdown
 
   portfolio:
