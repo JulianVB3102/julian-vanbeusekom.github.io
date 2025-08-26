@@ -45,17 +45,17 @@ en: &DEFAULT_EN
     events:
       - title: "My humble beginnings"
         year: "2018-2020"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "As a child, I was always asking for more context. This behavior shaped my curiosity and eventual interest in the world of data science. It also made me a huge history buff!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "MNSU and my collaborative ventures"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "I met many of my greatest friends in college, many of whom were part of my first digital projects, which were comprised of everything from a powerlifting website to a videogame about a monkey escaping a dungeon."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Cognitive science coming to a head"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "While at first I thought I'd be a web developer after majoring in cognitive science, it left me wanting more. Then I learned about data science from my first couple of programming classes. It sparked my interest and before long I was enrolled in Google's Data Analytics certificate program."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
