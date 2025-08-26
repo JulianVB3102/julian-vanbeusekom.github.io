@@ -68,9 +68,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "My story"
+    body: "Aspiring data analyst with hands on experience in SQL, R, Excel, and Tableau, earned through completing the Google Data Analytics Professional Certificate. Skilled in data cleaning, visualization, and communicating insights to non-technical audiences. Very passionate about learning and always pursuing more experience in fields involving people and data in preparation for a career as an HR data analyst. Currently learning Power BI."
     section: about
 
   clients:
