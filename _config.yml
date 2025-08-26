@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : Julian Van Beusekom
 email      : vanbeusekomjulian@gmail.com #this is also the email contact forms will go to
 description: "Data analyst portfolio — Python, SQL, Power BI, Tableau."
-author     : Julian Van Beusekom
+author     : Julian L Van Beusekom
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
