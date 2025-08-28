@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: E-Commerce Customer Churn Analysis
   subtitle: Python(Pandas, Seaborn, MatPlotLib), Excel, Google Slides
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/portfolio1.jpg
 ---
 Cleaned and transformed an online retail dataset using Python (pandas, numpy) and SQL to uncover customer purchasing patterns and risk of churn. Built visualizations in Excel and Python (matplotlib, seaborn) to highlight key drivers of retention and revenue growth, translating raw data into actionable business insights. 
 
