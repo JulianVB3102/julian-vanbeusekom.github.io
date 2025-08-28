@@ -32,7 +32,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "My portfolio of data projects that showcases my skills and knowledge."
     section: portfolio
     closebutton: "Close Project"
 
@@ -49,23 +49,23 @@ en: &DEFAULT_EN
         image: assets/img/timeline/1.jpg
         alt:
       - title: "MNSU and my collaborative ventures"
-        year: "March 2011"
+        year: "2020-2022"
         desc: "I met many of my greatest friends in college, many of whom were part of my first digital projects, which were comprised of everything from a powerlifting website to a videogame about a monkey escaping a dungeon."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Cognitive science coming to a head"
-        year: "2019"
+        year: "2023-2024"
         desc: "While at first I thought I'd be a web developer after majoring in cognitive science, it left me wanting more. Then I learned about data science from my first couple of programming classes. It sparked my interest and before long I was enrolled in Google's Data Analytics certificate program."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "Modern day and current pursuits"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Modern day"
+        year: "2025"
+        desc: "My path truly became clear when I considered where I had been and where I want to go. My background in Cognitive Science and my newly acquired data know-how have made me want to pursue a career as an HR data analyst or a people analyst as it is sometimes known in industry. "
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
     title: "About Me"
