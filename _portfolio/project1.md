@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: E-Commerce Customer Churn Analysis
+subtitle: Python(Pandas, Seaborn, MatPlotLib), Excel, Google Slides
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
@@ -9,7 +9,7 @@ caption:
   subtitle: Python(Pandas, Seaborn, MatPlotLib), Excel, Google Slides
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Cleaned and transformed an online retail dataset using Python (pandas, numpy) and SQL to uncover customer purchasing patterns and risk of churn. Built visualizations in Excel and Python (matplotlib, seaborn) to highlight key drivers of retention and revenue growth, translating raw data into actionable business insights. 
 
 {:.list-inline}
 - Date: February 2025
