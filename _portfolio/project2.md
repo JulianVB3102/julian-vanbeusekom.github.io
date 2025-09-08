@@ -1,7 +1,7 @@
 ---
 title: Northwind Analytics Project (Tableau Dashboard + Querying)
 subtitle: (SQL, Tableau, Python)
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/northwindPic
 alt: E
 
 caption:
