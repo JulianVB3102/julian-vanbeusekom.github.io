@@ -9,10 +9,15 @@ caption:
   subtitle: Graphic Design
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+End to end BI solution featuring interactive tableau dashboards. Consists of:
+
+- The python script used to load the well known Northwind database into Tableau Publc Desktop.
+
+- The SQL queries used to create the tables for RFM analysis, KPI indicators and inventory risk metrics.
+
+- Documentation about the process of my analysis.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: August 2025
+- Category: Business Analytics
 
