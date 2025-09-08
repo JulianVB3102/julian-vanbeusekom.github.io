@@ -9,7 +9,7 @@ caption:
   thumbnail: assets/img/portfolio/portfolio1.jpg
 ---
 
-[![Shirts on a hanger](assets/img/portfolio/portfolio1.jpg)](https://github.com/JulianVB3102/ECommerceCustBehavior)
+[![Click image below to be redirected to the project](assets/img/portfolio/portfolio1.jpg)](https://github.com/JulianVB3102/ECommerceCustBehavior)
 
 Cleaned and transformed an online retail dataset using Python (pandas, numpy) and SQL to uncover customer purchasing patterns and risk of churn. Built visualizations in Excel and Python (matplotlib, seaborn) to highlight key drivers of retention and revenue growth, translating raw data into actionable business insights. 
 
