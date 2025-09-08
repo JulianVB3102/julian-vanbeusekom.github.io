@@ -6,7 +6,7 @@ alt: Click the image below to be redirected to the dashboard
 caption:
   title: Northwind Analytics 
   subtitle: (SQL, Tableau, Python)
-  thumbnail: assets/img/portfolio/northwindPic.png
+  thumbnail: assets/img/portfolio/nw.png
 ---
 
 [![Northwind Dashboard](assets/img/portfolio/nw.png)](https://public.tableau.com/app/profile/julian.van.beusekom/viz/NorthwindRFMDash/Dashboard1)
