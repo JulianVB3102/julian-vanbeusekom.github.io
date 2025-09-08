@@ -12,9 +12,7 @@ caption:
 End to end BI solution featuring interactive tableau dashboards. Consists of:
 
 - The python script used to load the well known Northwind database into Tableau Publc Desktop.
-
 - The SQL queries used to create the tables for RFM analysis, KPI indicators and inventory risk metrics.
-
 - Documentation about the process of my analysis.
 
 {:.list-inline}
