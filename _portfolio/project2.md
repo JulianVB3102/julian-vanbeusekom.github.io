@@ -5,8 +5,8 @@ image: assets/img/portfolio/02-full.jpg
 alt: E
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Northwind Analytics 
+  subtitle: (SQL, Tableau, Python)
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 End to end BI solution featuring interactive tableau dashboards. Consists of:
