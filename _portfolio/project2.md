@@ -1,8 +1,8 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Northwind Analytics Project (Tableau Dashboard + Querying)
+subtitle: (SQL, Tableau, Python)
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: E
 
 caption:
   title: Explore
