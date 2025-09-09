@@ -9,7 +9,7 @@ caption:
   thumbnail: assets/img/portfolio/nw.png
 ---
 
-[![Northwind Dashboard](assets/img/portfolio/nw.png)](https://public.tableau.com/app/profile/julian.van.beusekom/viz/NorthwindRFMDash/Dashboard1)
+[![Northwind Dashboard](assets/img/portfolio/northwindPic)](https://public.tableau.com/app/profile/julian.van.beusekom/viz/NorthwindRFMDash/Dashboard1)
 
 GitHub for the project: [View Here](https://github.com/JulianVB3102/Northwind-Analytics)  
 
