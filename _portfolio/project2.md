@@ -15,9 +15,9 @@ GitHub for the project: [View Here](https://github.com/JulianVB3102/Northwind-An
 
 End to end BI solution featuring interactive Tableau dashboards. Consists of:
 
-- The Python script used to load the well-known Northwind database into Tableau Public Desktop.  
-- The SQL queries used to create the tables for RFM analysis, KPI indicators, and inventory risk metrics.  
-- Documentation about the process of my analysis.  
+1. The Python script used to load the well-known Northwind database into Tableau Public Desktop.
+2. The SQL queries used to create the tables for RFM analysis, KPI indicators, and inventory risk metrics.  
+3. Documentation about the process of my analysis.  
 
 {:.list-inline}
 - Date: August 2025  
