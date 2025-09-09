@@ -1,7 +1,7 @@
 ---
 title: E-Commerce Customer Churn Analysis
 subtitle: Python(Pandas, Seaborn, MatPlotLib), Excel, Google Slides
-alt: Shirts on a hanger
+alt:
 
 caption:
   title: E-Commerce Customer Churn Analysis
