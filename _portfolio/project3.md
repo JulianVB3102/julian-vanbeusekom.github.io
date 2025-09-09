@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Show&Well Synthetic Data Dash + 
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
