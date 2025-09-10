@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Modern day"
         year: "2025"
-        desc: "My path truly became clear when I considered where I had been and where I want to go. My background in Cognitive Science and my newly acquired data know-how have made me want to pursue a career as an HR data analyst or a people analyst as it is sometimes known in industry."
+        desc: "My career direction became clear when I reflected on where I’ve been and where I want to go. I’ve always enjoyed asking questions, finding answers, and helping others along the way. With a foundation in Cognitive Science and growing expertise in data analytics, I’ve developed a strong interest in applying these skills to people-focused work. That’s why I’m pursuing a career as an HR Data Analyst (also known as a People Analyst) where I can combine data-driven insight with a genuine commitment to improving the workplace experience."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
