@@ -9,7 +9,7 @@ caption:
   subtitle: (Python, SQL, DAX, Power BI) 
   thumbnail: assets/img/portfolio/show.jpg
 ---
-A public, interactive Power BI dashboard that demonstrates SQL-style modeling, Python data generation, and DAX—telling the Show & Well viability story.
+A public, interactive Power BI dashboard that demonstrates SQL-style modeling, Python data generation, and DAX telling the Show & Well viability story.
 Uses a proper star schema with realistic, synthetic operations + finance + membership revenue.
 
 {:.list-inline}
