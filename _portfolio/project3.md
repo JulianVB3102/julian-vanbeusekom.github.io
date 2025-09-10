@@ -1,18 +1,19 @@
 ---
-title: Show&Well Synthetic Data Dash + 
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Show&Well Synthetic Data Model + Dash
+subtitle: (Python, SQL, DAX, Power BI)
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Show&Well Synthetic Data Model + Dash
+  subtitle: (Python, SQL, DAX, Power BI) 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A public, interactive Power BI dashboard that demonstrates SQL-style modeling, Python data generation, and DAX—telling the Show & Well viability story.
+Uses a proper star schema with realistic, synthetic operations + finance + membership revenue.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: August 2025
+- Client: Show & Well
+- Category: Business Viability and Projections
 
