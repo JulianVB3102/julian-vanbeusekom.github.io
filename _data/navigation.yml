@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
@@ -46,8 +44,6 @@ es: &DEFAULT_ES
       section: nosotros
     - title: "Cronología"
       section: cronologia
-    - title: "Equipo"
-      section: equipo
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
