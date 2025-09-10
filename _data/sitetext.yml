@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My story"
-    body: "Aspiring data analyst with hands on experience in SQL, R, Excel, and Tableau, earned through completing the Google Data Analytics Professional Certificate. Skilled in data cleaning, visualization, and communicating insights to non-technical audiences. Very passionate about learning and always pursuing more experience in fields involving people and data in preparation for a career as an HR data analyst. Currently learning Power BI."
+    body: "Aspiring data analyst with hands on experience in SQL, R, Excel, and Tableau, earned through completing the Google Data Analytics Professional Certificate. Skilled in data cleaning, visualization, and communicating insights to non-technical audiences. Very passionate about learning and always pursuing more experience in fields involving people and data in preparation for a career as an HR data analyst. Currently learning Power BI and preparing for my data science masters at Concordia in St.Paul, MN."
     section: about
 
 
