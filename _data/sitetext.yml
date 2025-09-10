@@ -26,9 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Dashboards and Design"
         desc: "Everyone's second favorite DND, and my favorite part of analysis. With my UX design background, I craft dashboards that feel less like reports and more like experiences."
+        icon: fas fa-chart-line
       - title: "Cognitive Science Background"
         desc: "I analyze workforce trends and human-centered data to uncover insights that improve retention, engagement, and organizational health."
-        icon: fab fa-markdown
+        icon: fas fa-brain
 
   portfolio:
     title: "Portfolio"
