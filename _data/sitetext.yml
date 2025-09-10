@@ -44,8 +44,8 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "My humble beginnings"
-        year: "2018-2020"
-        desc: "As a child, I was always asking for more context. This behavior shaped my curiosity and eventual interest in the world of data science. It also made me a huge history buff!"
+        year: "2002-2020"
+        desc: "As a child, I was always asking for more context. This behavior shaped my curiosity and eventual interest in the world of technology and data science. It also made me a huge history buff!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "MNSU and my collaborative ventures"
@@ -55,12 +55,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Cognitive science coming to a head"
         year: "2023-2024"
-        desc: "While at first I thought I'd be a web developer after majoring in cognitive science, it left me wanting more. Then I learned about data science from my first couple of programming classes. It sparked my interest and before long I was enrolled in Google's Data Analytics certificate program."
+        desc: "While at first I thought I'd be a web developer after majoring in cognitive science, it left me wanting more. I wanted the creative expression of UX with the tech stack of back end development. Then I learned about data science from my first couple of programming classes. It sparked my interest and before long I was enrolled in Google's Data Analytics certificate program."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Modern day"
         year: "2025"
-        desc: "My path truly became clear when I considered where I had been and where I want to go. My background in Cognitive Science and my newly acquired data know-how have made me want to pursue a career as an HR data analyst or a people analyst as it is sometimes known in industry. "
+        desc: "My path truly became clear when I considered where I had been and where I want to go. My background in Cognitive Science and my newly acquired data know-how have made me want to pursue a career as an HR data analyst or a people analyst as it is sometimes known in industry."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -72,24 +72,6 @@ en: &DEFAULT_EN
     text: "My story"
     body: "Aspiring data analyst with hands on experience in SQL, R, Excel, and Tableau, earned through completing the Google Data Analytics Professional Certificate. Skilled in data cleaning, visualization, and communicating insights to non-technical audiences. Very passionate about learning and always pursuing more experience in fields involving people and data in preparation for a career as an HR data analyst. Currently learning Power BI."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
 
   contact:
@@ -185,8 +167,8 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
+    title: "Sobre mi"
+    text: "Mi historia"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
 
