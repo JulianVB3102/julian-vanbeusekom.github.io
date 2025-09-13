@@ -13,7 +13,7 @@ caption:
 A public, interactive Power BI dashboard that demonstrates SQL-style modeling, Python data generation, and DAX telling the Show & Well viability story.
 Uses a proper star schema with realistic, synthetic operations + finance + membership revenue.
 
-GitHub: (https://github.com/Show-and-Well/Synthetic-Database)
+GitHub for the project: [View Here](https://github.com/Show-and-Well/Synthetic-Database)
 
 {:.list-inline}
 - Date: August 2025
