@@ -6,7 +6,7 @@ alt: Click the image below to be redirected to the dashboard
 caption:
   title: Show&Well Synthetic Data Model + Dash
   subtitle: (Python, SQL, DAX, Power BI) 
-  thumbnail: assets/img/portfolio/showwell.png
+  thumbnail: assets/img/portfolio/ropes.png
 ---
 [![Show&WellDashboard](assets/img/portfolio/showell.png)](https://app.powerbi.com/view?r=eyJrIjoiMDE5MTliZjUtNGYxNC00YThkLTk0MjUtYjY4OTdmMmIzYzEzIiwidCI6IjE1YzJlYmM2LTFlYTctNDI2MS05N2Y2LTBiMmI4NDZmNzJlYiIsImMiOjN9&embedImagePlaceholder=true)
 
