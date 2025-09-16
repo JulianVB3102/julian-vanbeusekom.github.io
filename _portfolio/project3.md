@@ -8,7 +8,7 @@ caption:
   subtitle: (Python, SQL, DAX, Power BI) 
   thumbnail: assets/img/portfolio/rectandwell.png
 ---
-[![Show&WellDashboard](assets/img/portfolio/showwell_rect_northwind_size.png)](https://app.powerbi.com/view?r=eyJrIjoiMDE5MTliZjUtNGYxNC00YThkLTk0MjUtYjY4OTdmMmIzYzEzIiwidCI6IjE1YzJlYmM2LTFlYTctNDI2MS05N2Y2LTBiMmI4NDZmNzJlYiIsImMiOjN9&embedImagePlaceholder=true)
+[![Show&WellDashboard](assets/img/portfolio/well.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiMDE5MTliZjUtNGYxNC00YThkLTk0MjUtYjY4OTdmMmIzYzEzIiwidCI6IjE1YzJlYmM2LTFlYTctNDI2MS05N2Y2LTBiMmI4NDZmNzJlYiIsImMiOjN9&embedImagePlaceholder=true)
 
 A public, interactive Power BI dashboard that demonstrates SQL-style modeling, Python data generation, and DAX telling the Show & Well viability story.
 Uses a proper star schema with realistic, synthetic operations + finance + membership revenue.
