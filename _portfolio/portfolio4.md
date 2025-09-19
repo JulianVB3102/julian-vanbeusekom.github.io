@@ -8,7 +8,7 @@ caption:
   subtitle: (Python, SQL, BigQuery, Google Cloud, Tableau) 
   thumbnail: assets/img/portfolio/rectandwell.png
 ---
-[![Show&WellDashboard](assets/img/portfolio/well.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiMDE5MTliZjUtNGYxNC00YThkLTk0MjUtYjY4OTdmMmIzYzEzIiwidCI6IjE1YzJlYmM2LTFlYTctNDI2MS05N2Y2LTBiMmI4NDZmNzJlYiIsImMiOjN9&embedImagePlaceholder=true)
+[![Show&WellDashboard](assets/img/portfolio/well.jpeg)](https://public.tableau.com/app/profile/julian.van.beusekom/viz/SAWProPipelineVis/ShowAndWellProPipeline?publish=yes)
 
 End-to-end data product on Google Cloud: a Python scraper hits the Google Places API (New) to fetch ratings & details, 
 lands them to GCS → BigQuery (bronze ➜ silver ➜ gold views), and powers a Tableau dashboard (map with county overlay, 
@@ -17,7 +17,7 @@ category summary, top by reviews).
 Key pieces: reproducible run_all.sh, typed views, geocoding + distance calc (ST_DISTANCE), 
 and a tiering model (Gold/Silver/Bronze). Exports a single CSV for easy BI ingestion.
 
-GitHub for the project: [View Here](https://github.com/JulianVB3102/Show-WellSyntheticDatabase)
+GitHub for the project: [View Here](https://github.com/JulianVB3102/ShowAndWellPipeline)
 
 {:.list-inline}
 - Date: September 2025
